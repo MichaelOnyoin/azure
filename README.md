@@ -1,4 +1,4 @@
-![alt text](./images/app-demo.png)
+![alt text](./public/app-demo.png)
 
 This is a fun [Next.js](https://nextjs.org/) project that demonstrates how to use[ Azure OpenAI](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/) with [OpenAI Node.js SDK](https://github.com/openai/openai-node). Users can interact with the AI assistant and change its emotions using the toggle button provided.
 
