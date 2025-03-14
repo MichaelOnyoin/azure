@@ -6,7 +6,7 @@ This is a fun [Next.js](https://nextjs.org/) project that demonstrates how to us
 
 First, generate a .env.local file in the root directory and insert the following environment variables:
 
-![alt text](./images/env.local.png)
+![alt text](./public/env.local.png)
 
 ```bash
 AZURE_OPEN_AI_KEY = 'YOUR API'
