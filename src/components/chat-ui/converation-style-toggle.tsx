@@ -1,6 +1,6 @@
 "use client";
 import React, { FC, useState } from "react";
-import { ConverSationStyle } from "../api/openai/route";
+import { ConverSationStyle } from "@/app/api/route";
 
 interface ToggleProps {
   onClick: (ConverSationStyle: ConverSationStyle) => void;
